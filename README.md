@@ -757,4 +757,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Maintainer**: Fashion AI Team
 **Status**: Active Development
 
+
 Made with ❤️ and AI by the Fashion AI Team
